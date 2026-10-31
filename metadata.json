@@ -1,0 +1,6 @@
+{
+  "name": "JanDrishti AI",
+  "description": "AI-powered civic governance, public expenditure transparency, rural development monitoring, and citizen participation platform.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
